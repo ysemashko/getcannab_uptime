@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/getcannab.com",
     "slug": "get-cannab",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 1164,
-    "timeDay": 764,
-    "timeWeek": 1236,
-    "timeMonth": 1268,
-    "timeYear": 1164,
+    "uptimeYear": "99.91%",
+    "time": 1169,
+    "timeDay": 1349,
+    "timeWeek": 1314,
+    "timeMonth": 1293,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2022-06-02": 44
     }
