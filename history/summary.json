@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/getcannab.com",
     "slug": "get-cannab",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptime": "97.70%",
+    "uptimeDay": "10.48%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "97.70%",
     "time": 1139,
-    "timeDay": 805,
-    "timeWeek": 1016,
-    "timeMonth": 1287,
+    "timeDay": 0,
+    "timeWeek": 960,
+    "timeMonth": 1281,
     "timeYear": 1139,
     "dailyMinutesDown": {
-      "2022-07-12": 0,
+      "2022-07-13": 34,
+      "2022-07-12": 1255,
       "2022-06-02": 44
     }
   }
