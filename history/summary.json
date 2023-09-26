@@ -6,7 +6,7 @@
     "slug": "get-cannab",
     "status": "down",
     "uptime": "26.88%",
-    "uptimeDay": "52.75%",
+    "uptimeDay": "52.46%",
     "uptimeWeek": "41.57%",
     "uptimeMonth": "7.66%",
     "uptimeYear": "4.66%",
@@ -16,7 +16,7 @@
     "timeMonth": 767,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-09-26": 0,
+      "2023-09-26": 4,
       "2023-09-25": 682,
       "2023-09-24": 490,
       "2023-09-23": 573,
