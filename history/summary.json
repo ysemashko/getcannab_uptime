@@ -6,13 +6,13 @@
     "slug": "get-cannab",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "42.96%",
-    "uptimeWeek": "64.43%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "45.03%",
+    "uptimeWeek": "64.60%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.32%",
-    "time": 665,
-    "timeDay": 215,
-    "timeWeek": 203,
+    "time": 664,
+    "timeDay": 209,
+    "timeWeek": 202,
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2023-10-08": 763,
       "2023-10-07": 635,
       "2023-10-06": 599,
-      "2023-10-05": 332
+      "2023-10-05": 315
     }
   }
 ]
