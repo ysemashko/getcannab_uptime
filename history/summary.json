@@ -4,15 +4,15 @@
     "url": "https://getcannab.com",
     "icon": "https://icons.duckduckgo.com/ip3/getcannab.com.ico",
     "slug": "get-cannab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "47.50%",
-    "uptimeWeek": "58.80%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "50.15%",
+    "uptimeWeek": "59.30%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "99.22%",
     "time": 529,
-    "timeDay": 225,
-    "timeWeek": 246,
+    "timeDay": 217,
+    "timeWeek": 245,
     "timeMonth": 371,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2023-10-26": 750,
       "2023-10-25": 771,
       "2023-10-24": 682,
-      "2023-10-23": 692
+      "2023-10-23": 642
     }
   }
 ]
